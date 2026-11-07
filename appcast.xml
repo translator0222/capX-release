@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CapX</title>
+        <item>
+            <title>2.7.14</title>
+            <pubDate>Sat, 07 Nov 2026 10:51:13 +0900</pubDate>
+            <sparkle:version>20714</sparkle:version>
+            <sparkle:shortVersionString>2.7.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/translator0222/capX-release/releases/download/v2.7.14/CapX-2.7.14.zip" length="21162835" type="application/octet-stream" sparkle:edSignature="Ui5TKindINkFyZOr5Syfe/2XazRhGzoM+CdRW0eRLQB5puBUGSUNfIPHe3fErLcB9Zf+zI5m4Sw5Tf3fDiCyDA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 9ysImxPLejR1kvLBn1nf/cy6j0pWchyt/rDWe1RJOW73ygj82tSgNbTHNTunua94/8cvUgJRL8DIL5ewmZPKDg==
+length: 1148
+-->
