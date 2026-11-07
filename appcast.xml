@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>CapX</title>
         <item>
-            <title>2.7.15</title>
-            <pubDate>Sat, 07 Nov 2026 11:14:17 +0900</pubDate>
-            <sparkle:version>20715</sparkle:version>
-            <sparkle:shortVersionString>2.7.15</sparkle:shortVersionString>
+            <title>2.7.16</title>
+            <pubDate>Sat, 07 Nov 2026 12:10:02 +0900</pubDate>
+            <sparkle:version>20716</sparkle:version>
+            <sparkle:shortVersionString>2.7.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/translator0222/capX-release/releases/download/v2.7.15/CapX-2.7.15.zip" length="21164549" type="application/octet-stream" sparkle:edSignature="M9Zt1rlaw7xkt/2f20nh2mJJdZbJBM6tai+ASHbrHS5CrwXIh5LWZRJPt+EVMBH75IjIdOz+KWPbO/HB67HDBQ=="></enclosure>
+            <enclosure url="https://github.com/translator0222/capX-release/releases/download/v2.7.16/CapX-2.7.16.zip" length="21177474" type="application/octet-stream" sparkle:edSignature="i6z/uJ+Tugyxqx3/xEXc1C29CUGupGfVXl/f2IifHKsfTvq8k0W5sll5CsesbnqgGhze62+Hjdo/ewESlZNADg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: avDiJkZQrOSKccMHlmuqehhTPtS+jcdBq27C4bneULL0TrVwP6DWUy302ZBogk85p3sr6eEOd/gjDksa6OL/AQ==
+edSignature: O7tjH58wu+Q02kzWdJQEx34zt4h1jvy426mlDRtTVnrvUKQc3QGBCzVYWL+mXOrJXw9r2pLm/ZiuFuAerOCjDA==
 length: 1148
 -->
