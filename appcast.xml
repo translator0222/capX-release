@@ -6,14 +6,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <item>
             <title>1.2.0</title>
             <pubDate>Mon, 09 Nov 2026 22:27:08 +0900</pubDate>
-            <sparkle:version>20722</sparkle:version>
+            <sparkle:version>20724</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/translator0222/capX-release/releases/download/v1.2.0/CapX-1.2.0.zip" length="21457929" type="application/octet-stream" sparkle:edSignature="Id7rfn3j2/A4vZsNv4Hpf9EASSyAYae0KrQWFpgH5HtI/H6X4pwEK+V25Lff1jy08zYloS9p7OTwsbv4bSkCBQ=="></enclosure>
+            <enclosure url="https://github.com/translator0222/capX-release/releases/download/v1.2.0/CapX-1.2.0.zip" length="21456309" type="application/octet-stream" sparkle:edSignature="tG9Xu+4b7BPsg2Sxm/L27oaiDVT4L9qLC3b1nITu87DF3X1xtYvXOQ2Yw9JnDI24c1zkgT6OG2c7W/3t+1WXDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: GC4VCIJcA477E2HudoiGKuYC9WMkE+nKQ1hTGaOtFzQbaAwrPr9504BdylquzWsa+377T8f4Cg6xbTZMDxLWAg==
+edSignature: RatvKOBXQLW/LBAO11uD3a0L7gkiMhXQZzi46Zk1W98nTa2TCQuzXAyJzuM2oAhDtGxL9Ncfw5Dn9XRFbIqTBw==
 length: 1144
 -->
