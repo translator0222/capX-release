@@ -1,8 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>CapX</title>
+        <item>
+            <title>1.2.2</title>
+            <pubDate>Tue, 10 Nov 2026 16:20:04 +0900</pubDate>
+            <sparkle:version>20729</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/translator0222/capX-release/releases/download/v1.2.2/CapX-1.2.2.zip" length="21476161" type="application/octet-stream" sparkle:edSignature="m7zI9qNoqgEOaInWd+NJVPbbF6ulWqYdrvSi/8h9nYQJCp/lpyfqPStsB5SM/PyCjd94/FimE/heVaFPlTBkCA=="/>
+        </item>
         <item>
             <title>1.2.1</title>
             <pubDate>Tue, 10 Nov 2026 12:16:35 +0900</pubDate>
@@ -10,10 +21,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/translator0222/capX-release/releases/download/v1.2.1/CapX-1.2.1.zip" length="21510079" type="application/octet-stream" sparkle:edSignature="vnmz4sSshnsq5Lvg+Vh7nIvd92oXPjvzMHndlL1bEBqZORK8WpylL+G2ykYZzMn81qB04PgThp0RK8p+7gJJDA=="></enclosure>
+            <enclosure url="https://github.com/translator0222/capX-release/releases/download/v1.2.1/CapX-1.2.1.zip" length="21510079" type="application/octet-stream" sparkle:edSignature="vnmz4sSshnsq5Lvg+Vh7nIvd92oXPjvzMHndlL1bEBqZORK8WpylL+G2ykYZzMn81qB04PgThp0RK8p+7gJJDA=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: BFeeV4KMG0iA/qjTZw97V7Emauo7SAXwGyIZIFt25cFQrNg3w/thSaNfqsT3oPhlE5dOAJdDV8nP23a6quBsBQ==
-length: 1144
+</rss>
+<!-- sparkle-signatures:
+edSignature: vL+3jyDSbuUr4yMZGvVNsO4wcpCVxucQnU87OJCaOxVW+uZokCLwMikkgOySACRspRxs7MVtxGgNPdQuKasBAg==
+length: 1827
 -->
