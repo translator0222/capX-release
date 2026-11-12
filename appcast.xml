@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>CapX</title>
         <item>
+            <title>1.2.3</title>
+            <pubDate>Thu, 12 Nov 2026 12:31:29 +0900</pubDate>
+            <sparkle:version>20730</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/translator0222/capX-release/releases/download/v1.2.3/CapX-1.2.3.zip" length="21549437" type="application/octet-stream" sparkle:edSignature="VmL0Xc3+uPK7H+P6WU5Fw8b5V/3KARUhnlJEGXZgHerefPFITjUvoSL/4HHJ5X07UhSzUTku9yHxu4fLCN24Cg=="/>
+        </item>
+        <item>
             <title>1.2.2</title>
             <pubDate>Tue, 10 Nov 2026 16:20:04 +0900</pubDate>
             <sparkle:version>20729</sparkle:version>
@@ -26,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: vL+3jyDSbuUr4yMZGvVNsO4wcpCVxucQnU87OJCaOxVW+uZokCLwMikkgOySACRspRxs7MVtxGgNPdQuKasBAg==
-length: 1827
+edSignature: VZsR0WH4llIAGniS4pszCxflZBj1tCU/NwcdLX4nIICGTigKbkQ0B6EY0avgISSpoESf47w/H56sV1++5HwQBg==
+length: 2518
 -->
